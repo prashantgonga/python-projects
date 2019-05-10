@@ -1,5 +1,5 @@
 #Simple program take a user input in a form of a txt file and check which word in the file has been used the most
-#use intro.txt file as a sample text file
+#use intro.txt file as a sample text file. Make sure to keep it in a same folder as the python file
 
 fupload = input("Enter your file name: ") #enter the file name
 fhandle = open(fupload) #open the contents of the file
