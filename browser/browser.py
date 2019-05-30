@@ -1,4 +1,4 @@
-#open URL's on chrome in a specific order and also open installed softwares on Windows
+#open URL's on Google chrome and installed softwares on Windows
 
 import webbrowser
 import subprocess #open windows applications (.exe)
